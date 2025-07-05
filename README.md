@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi thereHey everyone, Ferian Ardiansa checking in! 👋
+
+![FerianArdiansa](banner.png)
 
 <!--
 **ardiansa22/ardiansa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
