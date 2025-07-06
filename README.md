@@ -10,10 +10,9 @@ Saya adalah seorang pengembang web full-stack dengan semangat tinggi dalam memba
 
 ## 🔍 Fokus Saat Ini
 
-- 🚧 **Membangun:** Dashboard penyebaran penyakit mata di wilayah Pangandaran berbasis **Streamlit**, terintegrasi dengan model clustering **DBSCAN** dan **KMeans**.
 - ⚙️ **Mengeksplorasi:** Penerapan **MLflow** untuk tracking eksperimen dan manajemen model ML.
-- 🌐 **Freelance Projects:** Sistem manajemen destinasi wisata menggunakan **Laravel**, fitur multi-role login (vendor & customer), pembayaran, serta laporan dinamis.
 - 🧪 **Riset Aktif:** Penerapan Named Entity Recognition (NER) untuk teks medis menggunakan **IndoBERT**.
+- 🌐 **Freelance Projects:** Sistem manajemen destinasi wisata menggunakan **Laravel**, fitur multi-role login (vendor & customer), pembayaran, serta laporan dinamis.
 
 ---
 
@@ -21,7 +20,7 @@ Saya adalah seorang pengembang web full-stack dengan semangat tinggi dalam memba
 
 ### 💻 Programming Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,react,nextjs,laravel,express,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,react,laravel,express,fastapi)](https://skillicons.dev)
 
 ### 🗃️ Database
 
