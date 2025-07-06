@@ -19,25 +19,22 @@ Saya adalah seorang pengembang web full-stack dengan semangat tinggi dalam memba
 
 ## 🛠️ Teknologi & Tools
 
-**Backend:**
+### 💻 Programming Languages & Frameworks
 
-- Laravel, Node.js, FastAPI, Flask, RESTful API
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,react,nextjs,laravel,express,fastapi)](https://skillicons.dev)
 
-**Frontend:**
+### 🗃️ Database
 
-- Blade, Tailwind CSS, Bootstrap, React.js
+[![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
-**Database:**
+### 🧠 Data & ML Tools
 
-- MySQL, PostgreSQL, MongoDB
+[![ML Tools](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
+Pandas, Scikit-learn, Streamlit, MLflow, Power BI
 
-**ML & Data Tools:**
+### ⚙️ Tools & DevOps
 
-- Pandas, Scikit-learn, TensorFlow, Streamlit, MLflow, Power BI
-
-**DevOps & Lainnya:**
-
-- Docker, Git, GitHub Actions (CI/CD), Linux, VPS (IDCloudHost), Figma
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,aws)](https://skillicons.dev)
 
 ---
 
