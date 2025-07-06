@@ -18,7 +18,7 @@ Saya adalah seorang **Pengembang Web Full-stack** yang bersemangat dalam **memba
 ### Mari Terhubung!
 
 - 💬 **Tanyakan saya tentang:** Pengembangan web, React.js, Node.js, Python, atau pengalaman saya di industri teknologi.
-- 📫 **Cara menghubungi saya:** ferian.ardiansa@email.com atau kunjungi [profil LinkedIn saya](https://www.linkedin.com/in/ferian-ardiansa-anda/).
+- 📫 **Cara menghubungi saya:** ferianardiansa22@email.com atau kunjungi [profil LinkedIn saya](https://www.linkedin.com/in/ferian-ardiansa-junardi-82a8a0269/).
 - ⚡ **Fakta menarik:** Saya suka mendaki gunung dan sering mencari inspirasi dari alam bebas.
 
 ---
@@ -40,9 +40,10 @@ Berikut adalah beberapa teknologi dan alat yang sering saya gunakan dalam pengem
 
 ### Proyek Pilihan Saya
 
-- **[Nama Proyek 1]** - [Deskripsi singkat proyek ini, misal: Sebuah aplikasi e-commerce penuh fitur yang dibangun dengan MERN stack.]
+- **Name Entity Recognition with IndoBERT** -
+  Aplikasi Ekstraksi informasi gejala,durasi dan bagian tubuh dari teks konsultasi pasien dengan dokter menggunakan model IndoBERT.
   - [Link ke Repositori Proyek 1](https://github.com/ardiansa22/nama-repo-1)
-- **[Nama Proyek 2]** - [Deskripsi singkat proyek ini, misal: Alat CLI untuk mengotomatisasi deployment aplikasi ke server VPS.]
+- **Cerebook** - [Deskripsi singkat proyek ini, misal: Alat CLI untuk mengotomatisasi deployment aplikasi ke server VPS.]
   - [Link ke Repositori Proyek 2](https://github.com/ardiansa22/nama-repo-2)
 
 ---
